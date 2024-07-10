@@ -6,7 +6,7 @@ Software engineer | IT Solution architect
 
 * 🌍  I'm based in Como
 * ✉️  You can contact me at [bilato.simone1999@gmail.com](mailto:bilato.simone1999@gmail.com)
-* 🚀  I'm currently working on [Daily Snap app](http://apple.co/3QR0Ksd)
+* 🚀  I'm currently working on [Residence Hub]
 * 🧠  I'm learning SwiftUI
 * 🤝  I'm open to collaborating on iOS app projects
 
